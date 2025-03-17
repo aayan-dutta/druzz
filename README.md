@@ -1,12 +1,5 @@
-for background.mp3 use your own audio - put it in same directory as facedec.py
+The Fonk-Drone is basically a “flying Photoshop machine with commitment issues”—a drone that should be capable of great aerial photography but instead chooses to be completely useless.
 
-(because normal drones are boring and you deserve to be a low-budget music video star)
+Built with a KK2.1 flight controller, 1000KV motors, and 10-inch propellers, this quadcopter has all the right hardware for smooth, high-quality footage. But instead of doing what a normal drone does, we made sure it actively sabotages itself. Thanks to an onboard Raspberry Pi running OpenCV, it takes whatever footage it captures and butchers it into cursed, fonk-style memes—filled with distortion, oversaturation, and chaotic warping that make the videos completely unwatchable.
 
-what does this abomination do?
-drone controlled using kk2.1.5
-a raspberry pi is connected to this that runs a script to record footage
-what the python script doees is:
-it records the footage > locally stores it > edits it to memeify it (flashing lights directory advised), adds some gen z ahh song
-gives u the final edited video with audio
-
-basically u wanna create some SICK AND AWESOME tiktoks from 50 feet in the air? WE GOTCHU COVERED
+In short, this drone is a walking (or rather, flying) contradiction. It looks impressive on paper, but the moment it takes off, all it does is produce glitchy, low-effort garbage. It’s the pinnacle of engineered uselessness—a machine designed with precision and effort, only to spectacularly fail at the one job it was built for.
